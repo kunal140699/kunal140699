@@ -1,6 +1,5 @@
 - Hi There 👋  I’m Kunal Patel
 - 👀 I’m interested in Learning New Things 
-- 🌱 I’m currently Working On React And Android
 - 😍 Love to Develop New Apps And Website
 
 
