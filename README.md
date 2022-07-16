@@ -1,5 +1,4 @@
 - Hi There 👋  I’m Kunal Patel
-- 👀 I’m interested in Learning New Things 
 - 😍 Love to Develop New Apps And Website
 
 
